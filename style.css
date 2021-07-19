@@ -1,0 +1,84 @@
+@font-face 
+{
+	font-family: 'acre';
+	src: url("fonts/acre-medium-webfont.woff");
+	src: url("fonts/acre-medium-webfont.woff2");
+
+	font-weight: normal;
+	font-size: normal;
+}
+
+h1
+{
+	font-family: acre, "Arial black", Arial, Verdana, Impact;
+	color:  whitesmoke;
+}
+
+
+
+
+h2
+{
+	font-family: acre, "Arial black", Arial, Verdana, Impact;
+	color:  whitesmoke;   /* Commentaire */
+}
+
+.titrecv
+{
+	
+    color: red;
+    font-family: "Arial";
+    font-size: 1.6em;
+}
+
+.listcv
+{
+	font-family: "Arial";
+	font-size: 1.3em;
+}
+h3
+{
+	color: orangered;
+}
+
+h3 ~ p
+{
+	color: skyblue;
+}
+
+ul 
+{
+   font-family: 'acre';
+   font-style: italic;
+   color:  whitesmoke;
+   font-size: 1.3em;
+}
+
+p
+{
+   font-family: 'acre';
+   font-style: italic;
+   color: whitesmoke;
+   font-size: 1.3em;
+
+}
+
+.langues
+{
+
+	 color: red;
+}
+
+h2
+{
+	color: lightskyblue;
+}
+
+body 
+{
+background:url(img/wallpaper.jpg);
+background-repeat: repeat;
+background-position: 0;
+}
+
+
