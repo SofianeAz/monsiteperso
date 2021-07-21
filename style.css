@@ -81,4 +81,12 @@ background-repeat: repeat;
 background-position: 0;
 }
 
+figure
+{
+   font-family: 'acre';
+   font-style: italic;
+   color:  whitesmoke;
+   font-size: 1.3em;
+}
+
 
